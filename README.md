@@ -1,5 +1,4 @@
 # Malloc
-Memory ALLOCation
 
 EPITECH second year project.
 
